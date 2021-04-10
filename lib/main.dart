@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 _msg,
                 style: TextStyle(
                     fontSize: 40,
-                    color: Colors.deepOrangeAccent,
+                    color: Colors.deepPurple,
                     fontWeight: FontWeight.bold),
               ),
             ],
